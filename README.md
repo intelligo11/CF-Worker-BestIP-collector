@@ -139,8 +139,6 @@ npx wrangler deploy
 
 本项目仅用于学习和研究目的，请勿用于商业用途或违反相关服务条款。使用者需自行承担相关风险。
 
-## 📞 联系方式
-
 <div align="center">
 
 <p align="center">
@@ -156,7 +154,5 @@ npx wrangler deploy
     <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" width="40" height="40"/>
   </a>
 </p>
-
----
 
 如果这个项目对你有帮助，请给个 ⭐️ 支持一下！
