@@ -2,7 +2,7 @@
 由于GitHub版的被官方以滥用资源为理由封禁了项目，特推出基于Cloudflare worker版的优选IP，更快，更高效，更直观！抛弃github Action~
 
 <p align="center">
-  <a href="https://youtu.be/rZl2jz--Oes" target="_blank">
+  <a href="https://www.youtube.com/watch?v=onrDa-iNJeY&pp=0gcJCRUKAYcqIYz" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
